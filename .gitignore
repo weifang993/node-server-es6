@@ -1,0 +1,6 @@
+node_modules
+*.swp
+src/db
+.DS_Store
+package
+dist
